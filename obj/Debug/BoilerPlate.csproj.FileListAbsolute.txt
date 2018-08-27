@@ -1,0 +1,12 @@
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\bin\BoilerPlate.dll
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\bin\BoilerPlate.pdb
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\obj\Debug\BoilerPlate.csprojResolveAssemblyReference.cache
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\obj\Debug\BoilerPlate.csproj.CoreCompileInputs.cache
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\obj\Debug\BoilerPlate.dll
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\obj\Debug\BoilerPlate.pdb
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\BoilerPlate\bin\BoilerPlate.dll
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\BoilerPlate\bin\BoilerPlate.pdb
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\BoilerPlate\obj\Debug\BoilerPlate.csprojResolveAssemblyReference.cache
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\BoilerPlate\obj\Debug\BoilerPlate.csproj.CoreCompileInputs.cache
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\BoilerPlate\obj\Debug\BoilerPlate.dll
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\BoilerPlate\obj\Debug\BoilerPlate.pdb

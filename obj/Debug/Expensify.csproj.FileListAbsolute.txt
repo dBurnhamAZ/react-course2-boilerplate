@@ -1,0 +1,12 @@
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\bin\Expensify.dll
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\bin\Expensify.pdb
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\obj\Debug\Expensify.csprojResolveAssemblyReference.cache
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\obj\Debug\Expensify.csproj.CoreCompileInputs.cache
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\obj\Debug\Expensify.dll
+C:\VS_Sandbox\REACT\REACTProjects_VS\BoilerPlate\Indicision\obj\Debug\Expensify.pdb
+C:\VS_Sandbox\REACT\REACTProjects_VS\Expensify\Expensify\bin\Expensify.dll
+C:\VS_Sandbox\REACT\REACTProjects_VS\Expensify\Expensify\bin\Expensify.pdb
+C:\VS_Sandbox\REACT\REACTProjects_VS\Expensify\Expensify\obj\Debug\Expensify.csprojResolveAssemblyReference.cache
+C:\VS_Sandbox\REACT\REACTProjects_VS\Expensify\Expensify\obj\Debug\Expensify.csproj.CoreCompileInputs.cache
+C:\VS_Sandbox\REACT\REACTProjects_VS\Expensify\Expensify\obj\Debug\Expensify.dll
+C:\VS_Sandbox\REACT\REACTProjects_VS\Expensify\Expensify\obj\Debug\Expensify.pdb

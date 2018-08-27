@@ -1,0 +1,6 @@
+C:\VS_Sandbox\REACT\REACTProjects_VS\Indicision\Indicision\bin\Indicision.dll
+C:\VS_Sandbox\REACT\REACTProjects_VS\Indicision\Indicision\bin\Indicision.pdb
+C:\VS_Sandbox\REACT\REACTProjects_VS\Indicision\Indicision\obj\Debug\Indicision.csproj.CoreCompileInputs.cache
+C:\VS_Sandbox\REACT\REACTProjects_VS\Indicision\Indicision\obj\Debug\Indicision.dll
+C:\VS_Sandbox\REACT\REACTProjects_VS\Indicision\Indicision\obj\Debug\Indicision.pdb
+C:\VS_Sandbox\REACT\REACTProjects_VS\Indicision\Indicision\obj\Debug\Indicision.csprojResolveAssemblyReference.cache
